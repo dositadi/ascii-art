@@ -1,3 +1,6 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/dositadi/go-reloaded)](https://goreportcard.com/report/github.com/dositadi/ascii-art)
+![Go Version](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
 # ASCII-Art Generator
 
 #### A robust command-line utility built in Go that transforms standard string input into large-scale graphical ASCII representations. This program handles letters (upper/lower), numbers, special characters, and complex newline sequences by mapping them to 8-line tall graphical blocks.
