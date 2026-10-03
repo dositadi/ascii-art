@@ -8,5 +8,4 @@ func main() {
 	app := a.App{}
 
 	app.Run()
-
 }
